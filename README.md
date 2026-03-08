@@ -6,7 +6,7 @@
 I have included a demo mode in this project. You can test the full "Customer to Provider" workflow without needing two devices. To use it, navigate to the `/demo` page (accessible from the login screen) and enable "Demo Mode". A background bot will automatically "detect" your booking and accept it within 5-10 seconds, simulating the entire booking lifecycle.
 
 ## 🌐 Live Demo
-**[→ will update the link here when deployed]**
+**[→ click here](https://sevarthi-client.vercel.app/)**
 
 ## ✨ Features
 
